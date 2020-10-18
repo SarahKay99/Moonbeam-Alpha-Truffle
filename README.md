@@ -1,6 +1,6 @@
 # Moonbeam-Alpha-Truffle
 Connecting to Moonbeam Alpha using Truffle
 
-- (0xC2Bf5F29a4384b1aB0C063e1c666f02121B6084a, )
+- (0x4e44e30353111D4Eb1712bD53044620736dE9a7a, 0xDcAD9f04b1fb439dEB0ADFDdd71271D183191d70)
 
-- (Migrations Address, Token Address)
+- (Migration Contract Address, Token Contract Address)
